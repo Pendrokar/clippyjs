@@ -1051,10 +1051,10 @@ var clippy$1 = {
 };
 
 if (typeof window !== 'undefined') {
-    window.clippy = clippy;
+    window.clippy = clippy$1;
 }
 
-return clippy;
+return clippy$1;
 
 })));
 //# sourceMappingURL=clippy.js.map
